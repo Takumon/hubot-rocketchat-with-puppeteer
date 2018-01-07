@@ -1,7 +1,8 @@
 # hubot-rocketchat-with-puppeteer
 
+このDockerイメージは<br/>
 [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat)をベースに<br/>
-Bot用スクリプトで[puppeteer](https://github.com/GoogleChrome/puppeteer)を使えるようにしたDockeイメージ<br/><br/>
+Bot用スクリプトで[puppeteer](https://github.com/GoogleChrome/puppeteer)を使えるようにしたものです。<br/><br/>
 
 
 hubot-rocketchat-with-puppeteer is a chat bot built on the [Hubot][hubot] framework. It was
