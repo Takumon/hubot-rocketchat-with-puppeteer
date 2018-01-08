@@ -41,6 +41,9 @@ RUN apt-get update \
       lsb-release \
       xdg-utils \
       wget \
+      # Chromeで日本語を表示するための日本語フォント
+      fonts-ipafont \
+      fonts-ipaexfont \
   && npm install -g coffee-script@1.12.6 \
 	&& useradd hubot -m
 
